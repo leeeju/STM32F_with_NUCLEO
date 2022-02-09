@@ -1,5 +1,4 @@
-# NUCLEO
-NUCLEO를 사용한 F/W 연습
+## NUCLEO를 사용한 F/W 연습
 
 
 # NUCLEO란?
