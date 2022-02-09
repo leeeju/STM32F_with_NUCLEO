@@ -1,2 +1,2 @@
 # NUCLEO
-NUCLEO를 사용한 하드웨어 연습
+NUCLEO를 사용한 F/W 연습
