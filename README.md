@@ -12,7 +12,7 @@ MCU 의 최소 기능만으로 구성된 개발 보드로 ST사(STMicroelectroni
 ![image](https://user-images.githubusercontent.com/84003327/153141052-f172cc14-cede-418c-9bf3-5b237f2a1096.png)
 
 |구분|내용|
-|---|---|
+|:---:|---|
 |코어|ARM 32비트 Cortex_M4 프로세서|
 |최대 동작 주파수|180MHz|
 |동작속도|1.25 DMIPS/MHz |
