@@ -1,7 +1,7 @@
-## NUCLEO를 사용한 F/W 연습
+## STM32CubeIDE를 사용한 F/W 연습
 
 
-# NUCLEO란?
+## NUCLEO란?
 MCU 의 최소 기능만으로 구성된 개발 보드로 ST사(STMicroelectronics)에서 제작한 개발 보드이다. 연결되지 않은 나머지 핀들을 사용자가 자유롭게 사용할수 있도록 확장핀 커낵터로 연결되어 있다.
 높은 성능, 실시간 기능, 디지털 신호 처리 및 저전력, 저전압등의 장점이 있다 
 
@@ -26,5 +26,12 @@ MCU 의 최소 기능만으로 구성된 개발 보드로 ST사(STMicroelectroni
 |DA 변환기 | 12bit ADC 1개 (2C)|
 |패키지 PIN| 100 ~ 216pin|
 
+## STM32 F/W의 전체 구조
 
+![qwd](https://user-images.githubusercontent.com/84003327/153317245-63ed5212-c846-4b82-8ca1-eb97dd3f846c.PNG)
+
+
+## STM32 F/W의 세부 구조
+
+![캡처](https://user-images.githubusercontent.com/84003327/153317329-cba6b4d6-4af3-4d64-afc1-0d45b3c291e7.PNG)
 
