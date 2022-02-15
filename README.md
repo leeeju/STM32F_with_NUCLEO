@@ -7,6 +7,8 @@ MCU 의 최소 기능만으로 구성된 개발 보드로 ST사(STMicroelectroni
 
 공식 홈페이지 자료실 --> https://www.st.com/ko/stm32/stm32/reflibrary.html
 
+개인 링크 --> https://www.youtube.com/watch?v=lG1DBbBNUas
+
 필자가 사용할 NUCLEO-F429ZI 보드를 소개한다
 
 ![image](https://user-images.githubusercontent.com/84003327/153141052-f172cc14-cede-418c-9bf3-5b237f2a1096.png)
