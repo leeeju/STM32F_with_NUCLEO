@@ -71,9 +71,15 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 	if (huart -> Instance == USART3)
 	{
 		printf("%d,%c\r\n", Key_value,Key_value);
+		if(Key_value == '2')
+			HAL_GPIO_TogglePin(GPIOB, LD2_Pin);
+		if(Key_value == '3')
+			HAL_GPIO_TogglePin(GPIOB, LD3_Pin);
+
 		HAL_UART_Receive_IT(&huart3, &Key_value , 1);
 	}
 }
+/* USER
 /* USER CODE END 0 */
 
 /**
