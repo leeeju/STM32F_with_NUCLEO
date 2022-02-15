@@ -75,6 +75,8 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 			HAL_GPIO_TogglePin(GPIOB, LD2_Pin);
 		if(Key_value == '3')
 			HAL_GPIO_TogglePin(GPIOB, LD3_Pin);
+		if(Key_value == '1')
+			HAL_GPIO_TogglePin(GPIOB, LD1_Pin);
 
 		HAL_UART_Receive_IT(&huart3, &Key_value , 1);
 	}
