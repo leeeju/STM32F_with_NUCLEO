@@ -41,14 +41,19 @@ MCU 의 최소 기능만으로 구성된 개발 보드로 ST사(STMicroelectroni
 
 STM32의 코드 작성 및 디버그를 하기 위한 툴은 다양하게 있지만 크게 3가지로 나뉜다.
 
+### STM32CubeMX
+
 먼저 STM32CubeMX는 STM32 마이크로컨트롤러 및 마이크로프로세서를 매우 쉽게 구성할 수 있는 그래픽 도구이며 기코 코드를 만들기전의 mcu의 설정을 편하게 할 수 있는 장점이 있다
 
 ![mx](https://user-images.githubusercontent.com/84003327/154198786-a6f706a9-3f90-41e5-aa2b-2c70ab8ebde7.PNG)
 
+### STM32CubeIDE
 
 다음으로는 가장 많이 사용되는 STM32CubeIDE는 STM32Cube 소프트웨어 에코시스템의 일부인 올인원 다중 OS 개발 도구입니다,  STM32 마이크로컨트롤러 및 마이크로프로세서를 위한 주변 장치 구성, 코드 생성, 코드 컴파일 및 디버그 기능을 갖춘 고급 C/C++ 개발 플랫폼입니다
 
 ![ide](https://user-images.githubusercontent.com/84003327/154198976-e6baa3fa-dfc3-4e68-ae8e-a4579f0f3025.PNG)
+
+### Atollic TrueSTUDIO
 
 Atollic TrueSTUDIO는 Eclipse, CDT 에 구축된 상업적으로 향상된 C/C++ IDE입니다., GCC 및 GDB 컴파일러를제공하여 개발자에게 쉽고 효율적인 개발 도구 이다,
 가장 큰 장점으로는 무려 한글지원이 가능하다는 장점이 있다
