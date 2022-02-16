@@ -64,7 +64,9 @@ Atollic TrueSTUDIO는 Eclipse, CDT 에 구축된 상업적으로 향상된 C/C++
 
 
 
-
+### 꿀tip
+[내pc] --> [사용자] --> [STM32Cube] --> [STM32Cube_FW_F4_V1.26.2] --> [Projects] 에 들어가 보면다 다양한 뉴클레오 보드들의 이름이 나올것이다, 그중에 자신이 사용하고 
+있는 보드를 선택해 열어보면 [Examples] 폴더 안에 다양한 예제들이 들어있는 것을 확인 할 수 있다
 
 
 
