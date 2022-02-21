@@ -27,7 +27,7 @@ clock signal 이란?
 클럭 신호의 요소는
 - 신호의 크기
 - 주기를 결정하는 주파수
-- 한 주기 동안 상태 high와 low의 시간비인 듀티(duty)비율 or [ PWM ]
+- 한 주기 동안 상태 high와 low의 시간비인 듀티(duty)비율 or PWM (Pulse Width Modulation) <펄스 폭 변조>
 
 
 
