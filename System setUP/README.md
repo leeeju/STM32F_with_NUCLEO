@@ -15,10 +15,13 @@
 또한 상단의 메뉴인 Clock Configuration, Project Manager 와 같은 세부 셋팅 또한 가능하다.
 
 ---
-
 ### Clock Configuration
-
 ---
+
+![캡처](https://user-images.githubusercontent.com/84003327/154913637-bc54c34c-ce99-4f5c-9e85-3c2da551e2c9.PNG)
+
+
+
 
 
 
