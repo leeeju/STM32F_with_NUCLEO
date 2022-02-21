@@ -20,9 +20,14 @@
 
 ![캡처](https://user-images.githubusercontent.com/84003327/154913637-bc54c34c-ce99-4f5c-9e85-3c2da551e2c9.PNG)
 
+clock signal 이란?
 
+- 클럭 신호(영어: clock signal)는 논리상태 H(high,논리 1)와 L(low,논리 0)이 주기적으로 나타나는 방형파(square wave) 신호를 말한다.
 
-
+클럭 신호의 요소는
+- 신호의 크기
+- 주기를 결정하는 주파수
+- 한 주기 동안 상태 high와 low의 시간비인 듀티(duty)비율 or [ PWM ]
 
 
 
