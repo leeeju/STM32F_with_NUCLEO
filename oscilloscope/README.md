@@ -11,3 +11,5 @@
 
 ![oscilloscope](https://user-images.githubusercontent.com/84003327/156526198-35f65cfa-ac9b-491c-8c6d-1ef735af1e4f.jpg)
 
+또한 저항과 케페시터를 사용하여 인위적으로 전류(전하)의 흐름을 바꿔주면 오실로스코프의 값이 변하는것을 관찰 할 수 있다
+
